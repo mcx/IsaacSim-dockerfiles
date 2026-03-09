@@ -1,4 +1,7 @@
-# Isaac Sim Dockerfiles
+# Isaac Sim Dockerfiles (Deprecated)
+
+> ⚠️ This repository is deprecated and will be made read-only; it is kept for reference only.  
+> For current and officially supported Docker workflows for Isaac Sim, please use the Docker tooling in the main Isaac Sim repository: https://github.com/isaac-sim/IsaacSim/tree/main/tools/docker
 
 ## Introduction
 
